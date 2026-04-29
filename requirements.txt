@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+streamlit
+groq
+huggingface-hub
+langgraph
+pymupdf
+Pillow
+reportlab
+numpy
+loguru
+python-multipart
+requests
